@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "カルマ",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-09T19:41:53.420065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カルマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_カルマ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Karma [カルマ]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Karma_[カルマ]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スーパー・カルマ",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/03_スーパー・カルマ_Does.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カルマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_カルマ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カルマ - Karuma",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_カルマ_-_Karuma_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カルマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_カルマ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カルマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_カルマ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カルマ - Karuma",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_カルマ_-_Karuma_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カルマ",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/09_カルマ_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カルマ - Karma",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_カルマ_-_Karma_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Karma",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Karma_Taylor_Swift.txt"
+    }
+  ]
+}
